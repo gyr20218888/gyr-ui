@@ -1,0 +1,36 @@
+{
+	"name": "gyr-ui",
+	"version": "1.0.0",
+	"description": "UI弹窗提示工具",
+	"main": "src/index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/gyr20218888/gyr-ui.git"
+	},
+	"keywords": [
+		"ui",
+		"alert",
+		"confirm",
+		"toast",
+		"success",
+		"error"
+	],
+	"author": "gyr20218888",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/gyr20218888/gyr-ui/issues"
+	},
+	"homepage": "https://github.com/gyr20218888/gyr-ui#readme",
+	"dependencies": {
+		"lodash": "^4.17.21",
+		"moment": "^2.30.1",
+		"jz-region": "^1.0.3",
+		"jz-validate": "^1.0.2",
+		"lzzs-tabs": "^1.0.1",
+		"lzzs-hints": "^1.0.0",
+		"element-plus": "^2.4.2"
+	}
+}
